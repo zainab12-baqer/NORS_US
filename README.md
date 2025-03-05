@@ -27,10 +27,6 @@ Key areas of analysis include:
 6. **Top Food Vehicles Involved**: Examining the food items most commonly associated with outbreaks.
 7. **Top Animal Types Involved**: Identifying the types of animals linked to outbreaks.
 
-## How to Run
-
-
-
 ## Dependencies
 
 To run this project, you'll need the following Python libraries:
